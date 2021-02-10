@@ -1,0 +1,2484 @@
+[
+	{
+		"name": {
+			"en": "Software",
+			"fr": "Logiciels",
+			"es": "Software"
+		},
+		"icecatId": "2",
+		"image": "http://images.icecat.biz/img/low_pic/2-8879.jpg",
+		"uncatId": "43160000",
+		"lastUpdated": "2020-12-17T11:29:58.000Z",
+		"featureGroups": [
+			{
+				"icecatCatFeatureGroupId": "120",
+				"sortOrder": "0",
+				"featureGroups": [
+					{
+						"id": "0",
+						"name": {
+							"en": "Technical details",
+							"fr": "Détails techniques",
+							"es": "Detalles técnicos"
+						}
+					}
+				]
+			}
+		],
+		"features": [
+			{
+				"name": {
+					"en": "Minimum storage drive space",
+					"fr": "Espace disque minimal",
+					"es": "Espacio mínimo de almacenamiento del disco"
+				},
+				"measureSign": {
+					"en": "MB",
+					"fr": "Mo",
+					"es": "MB"
+				},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "111",
+				"icecatClass": "0",
+				"icecatFeatureId": "66",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "1970-01-01T23:00:00.000Z",
+				"sortOrder": "111226"
+			},
+			{
+				"name": {
+					"en": "Minimum RAM",
+					"fr": "Mémoire vive (RAM) minimale",
+					"es": "RAM mínima"
+				},
+				"measureSign": {
+					"en": "MB",
+					"fr": "Mo",
+					"es": "MB"
+				},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "112",
+				"icecatClass": "0",
+				"icecatFeatureId": "68",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "1970-01-01T23:00:00.000Z",
+				"sortOrder": "111225"
+			},
+			{
+				"name": {
+					"en": "Minimum processor",
+					"fr": "Processeur minimal",
+					"es": "Procesador mínimo"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "113",
+				"icecatClass": "0",
+				"icecatFeatureId": "67",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "text",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2012-07-25T09:00:18.000Z",
+				"sortOrder": "111224"
+			},
+			{
+				"name": {
+					"en": "Platform",
+					"fr": "Plateforme",
+					"es": "Plataforma"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "115",
+				"icecatClass": "0",
+				"icecatFeatureId": "75",
+				"limitDirection": "3",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "text",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "1970-01-01T23:00:00.000Z",
+				"sortOrder": "111222"
+			},
+			{
+				"name": {
+					"en": "Compatibility",
+					"fr": "Compatibilité",
+					"es": "Compatibilidad"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "4886",
+				"icecatClass": "0",
+				"icecatFeatureId": "890",
+				"limitDirection": "3",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "textarea",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "1970-01-01T23:00:00.000Z",
+				"sortOrder": "100050"
+			},
+			{
+				"name": {
+					"en": "Mac compatibility",
+					"fr": "Compatibilité Mac",
+					"es": "Compatible con Mac"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "5275",
+				"icecatClass": "0",
+				"icecatFeatureId": "853",
+				"limitDirection": "3",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "y_n",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "1970-01-01T23:00:00.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Compatible operating systems",
+					"fr": "Systèmes d'exploitation compatibles",
+					"es": "Sistemas operativos compatibles"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "13794",
+				"icecatClass": "0",
+				"icecatFeatureId": "2507",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "textarea",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "1970-01-01T23:00:00.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Media types supported",
+					"fr": "Types de supports acceptés",
+					"es": "Formatos compatibles"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "14306",
+				"icecatClass": "0",
+				"icecatFeatureId": "477",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "text",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "1970-01-01T23:00:00.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Dimensions (WxDxH)",
+					"fr": "Dimensions (LxPxH)",
+					"es": "Dimensiones (Ancho x Profundidad x Altura)"
+				},
+				"measureSign": {
+					"en": "mm",
+					"fr": "mm",
+					"es": "mm"
+				},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "36697",
+				"icecatClass": "0",
+				"icecatFeatureId": "49",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "3d",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2009-12-22T18:54:53.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Size (imperial)",
+					"fr": "Taille (impériale)",
+					"es": "Tamaño (imperial)"
+				},
+				"measureSign": {
+					"en": "\"",
+					"fr": "\"",
+					"es": "\""
+				},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "36698",
+				"icecatClass": "0",
+				"icecatFeatureId": "1147",
+				"limitDirection": "3",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2009-12-22T18:54:53.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Weight",
+					"fr": "Poids",
+					"es": "Peso"
+				},
+				"measureSign": {
+					"en": "g",
+					"fr": "g",
+					"es": "g"
+				},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "36699",
+				"icecatClass": "0",
+				"icecatFeatureId": "94",
+				"limitDirection": "1",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2009-12-22T18:54:53.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Weight (imperial)",
+					"fr": "Poids (impérial)",
+					"es": "Peso (imperial)"
+				},
+				"measureSign": {
+					"en": "lbs",
+					"fr": "kg",
+					"es": "libras"
+				},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "36700",
+				"icecatClass": "1",
+				"icecatFeatureId": "5736",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2009-12-22T18:54:53.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "Number of products included",
+					"fr": "Nombre de produits inclus",
+					"es": "Número de productos incluidos"
+				},
+				"measureSign": {
+					"en": "pc(s)",
+					"fr": "pièce(s)",
+					"es": "pieza(s)"
+				},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "66076",
+				"icecatClass": "0",
+				"icecatFeatureId": "5456",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2012-05-29T12:36:58.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Born on date",
+					"fr": "Né le",
+					"es": "Nacido en la fecha"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "131563",
+				"icecatClass": "1",
+				"icecatFeatureId": "21787",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "alphanumeric",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2015-10-21T13:57:30.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "Launch date",
+					"fr": "Date de lancement",
+					"es": "Fecha de lanzamiento"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "131564",
+				"icecatClass": "1",
+				"icecatFeatureId": "21756",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "alphanumeric",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2015-10-21T13:57:30.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "Market segment",
+					"fr": "Segment de marché",
+					"es": "Segmento de mercado"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "131566",
+				"icecatClass": "0",
+				"icecatFeatureId": "21801",
+				"limitDirection": "3",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "text",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2015-10-21T13:57:30.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Packaging content",
+					"fr": "Contenu de l'emballage",
+					"es": "Contenido del paquete"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "131567",
+				"icecatClass": "0",
+				"icecatFeatureId": "10622",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "textarea",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2015-10-21T13:57:30.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Product brief URL",
+					"fr": "URL de description du produit",
+					"es": "URL de descripción abreviada del producto"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "131568",
+				"icecatClass": "1",
+				"icecatFeatureId": "21769",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "text",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2015-10-21T13:57:30.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "Product name",
+					"fr": "Nom du produit",
+					"es": "Nombre de producto"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "131569",
+				"icecatClass": "1",
+				"icecatFeatureId": "21757",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "text",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2015-10-21T13:57:30.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "Product type",
+					"fr": "Type de produit",
+					"es": "Tipo de producto"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "131570",
+				"icecatClass": "0",
+				"icecatFeatureId": "14052",
+				"limitDirection": "3",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "text",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2015-10-21T13:57:30.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Status",
+					"fr": "Etat",
+					"es": "Estado"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "131571",
+				"icecatClass": "1",
+				"icecatFeatureId": "21723",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "text",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2015-10-21T13:57:30.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "Last change",
+					"fr": "Dernière modification",
+					"es": "Último cambio"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "138618",
+				"icecatClass": "1",
+				"icecatFeatureId": "22514",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2015-12-10T16:17:47.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "Processor codename",
+					"fr": "Nom de code du processeur",
+					"es": "Nombre clave del procesador"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "147082",
+				"icecatClass": "0",
+				"icecatFeatureId": "18767",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "dropdown",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2016-02-09T08:17:15.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Processor family",
+					"fr": "Famille de processeur",
+					"es": "Familia de procesador"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "147083",
+				"icecatClass": "0",
+				"icecatFeatureId": "2196",
+				"limitDirection": "3",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "text",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2016-02-09T08:17:15.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Processor series",
+					"fr": "Séries de processeurs",
+					"es": "Serie del procesador"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "147084",
+				"icecatClass": "0",
+				"icecatFeatureId": "21719",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "dropdown",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2016-02-09T08:17:15.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Additional information URL",
+					"fr": "URL pour obtenir des informations complémentaires",
+					"es": "URL con información adicional"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "158148",
+				"icecatClass": "1",
+				"icecatFeatureId": "25388",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "text",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2016-05-11T08:13:22.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "License description",
+					"fr": null,
+					"es": null
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "158149",
+				"icecatClass": "1",
+				"icecatFeatureId": "25375",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "text",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2016-05-11T08:13:22.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "Target market",
+					"fr": "Marché cible",
+					"es": "Mercado objetivo"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "158150",
+				"icecatClass": "1",
+				"icecatFeatureId": "25386",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "text",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2016-05-11T08:13:22.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "ARK ID",
+					"fr": "ID ARK",
+					"es": "ARK ID"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "120",
+				"icecatCatFeatureId": "212873",
+				"icecatClass": "0",
+				"icecatFeatureId": "27858",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2017-06-15T15:14:03.000Z",
+				"sortOrder": "100000"
+			}
+		]
+	},
+	{
+		"name": {
+			"en": "Database Software",
+			"fr": "Logiciels de bases de données",
+			"es": "Software de base de datos"
+		},
+		"icecatId": "4",
+		"image": "http://images.icecat.biz/img/low_pic/4-5517.jpg",
+		"uncatId": "43161501",
+		"lastUpdated": "2018-07-02T12:28:05.000Z",
+		"featureGroups": [
+			{
+				"icecatCatFeatureGroupId": "122",
+				"sortOrder": "1",
+				"featureGroups": [
+					{
+						"id": "0",
+						"name": {
+							"en": "Technical details",
+							"fr": "Détails techniques",
+							"es": "Detalles técnicos"
+						}
+					}
+				]
+			},
+			{
+				"icecatCatFeatureGroupId": "902",
+				"sortOrder": "77",
+				"featureGroups": [
+					{
+						"id": "6",
+						"name": {
+							"en": "License",
+							"fr": "Licence",
+							"es": "Licencia"
+						}
+					}
+				]
+			},
+			{
+				"icecatCatFeatureGroupId": "903",
+				"sortOrder": "66",
+				"featureGroups": [
+					{
+						"id": "8",
+						"name": {
+							"en": "System requirements",
+							"fr": "Configuration minimale du système",
+							"es": "Requisitos del sistema"
+						}
+					}
+				]
+			},
+			{
+				"icecatCatFeatureGroupId": "48298",
+				"sortOrder": "0",
+				"featureGroups": [
+					{
+						"id": "14",
+						"name": {
+							"en": "Weight & dimensions",
+							"fr": "Poids et dimensions",
+							"es": "Peso y dimensiones"
+						}
+					}
+				]
+			},
+			{
+				"icecatCatFeatureGroupId": "41610",
+				"sortOrder": "0",
+				"featureGroups": [
+					{
+						"id": "76",
+						"name": {
+							"en": "Certificates",
+							"fr": "Certificat",
+							"es": "Certificados"
+						}
+					}
+				]
+			},
+			{
+				"icecatCatFeatureGroupId": "3302",
+				"sortOrder": "0",
+				"featureGroups": [
+					{
+						"id": "101",
+						"name": {
+							"en": "Language",
+							"fr": "Langue",
+							"es": "Idioma"
+						}
+					}
+				]
+			},
+			{
+				"icecatCatFeatureGroupId": "49201",
+				"sortOrder": "0",
+				"featureGroups": [
+					{
+						"id": "116",
+						"name": {
+							"en": "Packaging content",
+							"fr": "Contenu de l'emballage",
+							"es": "Contenido del empaque"
+						}
+					}
+				]
+			},
+			{
+				"icecatCatFeatureGroupId": "53665",
+				"sortOrder": "0",
+				"featureGroups": [
+					{
+						"id": "143",
+						"name": {
+							"en": "Battery",
+							"fr": "Batterie",
+							"es": "Batería"
+						}
+					}
+				]
+			},
+			{
+				"icecatCatFeatureGroupId": "70444",
+				"sortOrder": "0",
+				"featureGroups": [
+					{
+						"id": "185",
+						"name": {
+							"en": "Features",
+							"fr": "Caractéristiques",
+							"es": "Características"
+						}
+					}
+				]
+			},
+			{
+				"icecatCatFeatureGroupId": "35971",
+				"sortOrder": "0",
+				"featureGroups": [
+					{
+						"id": "198",
+						"name": {
+							"en": "Logistics data",
+							"fr": "Données logistiques",
+							"es": "Datos de logística"
+						}
+					}
+				]
+			},
+			{
+				"icecatCatFeatureGroupId": "60161",
+				"sortOrder": "0",
+				"featureGroups": [
+					{
+						"id": "232",
+						"name": {
+							"en": "Supplier features",
+							"fr": "Caractéristiques du fournisseur",
+							"es": "Características del proveedor"
+						}
+					}
+				]
+			}
+		],
+		"features": [
+			{
+				"name": {
+					"en": "Minimum storage drive space",
+					"fr": "Espace disque minimal",
+					"es": "Espacio mínimo de almacenamiento del disco"
+				},
+				"measureSign": {
+					"en": "MB",
+					"fr": "Mo",
+					"es": "MB"
+				},
+				"icecatCatFeatureGroupId": "903",
+				"icecatCatFeatureId": "314",
+				"icecatClass": "0",
+				"icecatFeatureId": "66",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "1970-01-01T23:00:00.000Z",
+				"sortOrder": "111226"
+			},
+			{
+				"name": {
+					"en": "Minimum RAM",
+					"fr": "Mémoire vive (RAM) minimale",
+					"es": "RAM mínima"
+				},
+				"measureSign": {
+					"en": "MB",
+					"fr": "Mo",
+					"es": "MB"
+				},
+				"icecatCatFeatureGroupId": "903",
+				"icecatCatFeatureId": "315",
+				"icecatClass": "0",
+				"icecatFeatureId": "68",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "1970-01-01T23:00:00.000Z",
+				"sortOrder": "111225"
+			},
+			{
+				"name": {
+					"en": "Minimum processor",
+					"fr": "Processeur minimal",
+					"es": "Procesador mínimo"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "903",
+				"icecatCatFeatureId": "316",
+				"icecatClass": "0",
+				"icecatFeatureId": "67",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "text",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "1970-01-01T23:00:00.000Z",
+				"sortOrder": "111224"
+			},
+			{
+				"name": {
+					"en": "Platform",
+					"fr": "Plateforme",
+					"es": "Plataforma"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "122",
+				"icecatCatFeatureId": "318",
+				"icecatClass": "0",
+				"icecatFeatureId": "75",
+				"limitDirection": "3",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "text",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "1970-01-01T23:00:00.000Z",
+				"sortOrder": "111222"
+			},
+			{
+				"name": {
+					"en": "Compatibility",
+					"fr": "Compatibilité",
+					"es": "Compatibilidad"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "122",
+				"icecatCatFeatureId": "4789",
+				"icecatClass": "0",
+				"icecatFeatureId": "890",
+				"limitDirection": "3",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "textarea",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "1970-01-01T23:00:00.000Z",
+				"sortOrder": "100050"
+			},
+			{
+				"name": {
+					"en": "Mac compatibility",
+					"fr": "Compatibilité Mac",
+					"es": "Compatible con Mac"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "122",
+				"icecatCatFeatureId": "5240",
+				"icecatClass": "0",
+				"icecatFeatureId": "853",
+				"limitDirection": "3",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "y_n",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "1970-01-01T23:00:00.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "License type",
+					"fr": "Type de licenses",
+					"es": "Tipo de licencia"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "902",
+				"icecatCatFeatureId": "7558",
+				"icecatClass": "0",
+				"icecatFeatureId": "1559",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "dropdown",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "1970-01-01T23:00:00.000Z",
+				"sortOrder": "100002"
+			},
+			{
+				"name": {
+					"en": "License quantity",
+					"fr": "Quantité de licences",
+					"es": "Cantidad de licencia"
+				},
+				"measureSign": {
+					"en": "license(s)",
+					"fr": "licence(s)",
+					"es": "licencia(s)"
+				},
+				"icecatCatFeatureGroupId": "902",
+				"icecatCatFeatureId": "7559",
+				"icecatClass": "0",
+				"icecatFeatureId": "1558",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "alphanumeric",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "1970-01-01T23:00:00.000Z",
+				"sortOrder": "100004"
+			},
+			{
+				"name": {
+					"en": "Language version",
+					"fr": "Langue",
+					"es": "Versión de idioma"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "3302",
+				"icecatCatFeatureId": "7560",
+				"icecatClass": "0",
+				"icecatFeatureId": "1560",
+				"limitDirection": "3",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "multi_dropdown",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "1970-01-01T23:00:00.000Z",
+				"sortOrder": "100003"
+			},
+			{
+				"name": {
+					"en": "Minimum system requirements",
+					"fr": "Configuration minimale du système",
+					"es": "Requisitos mínimos del sistema"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "903",
+				"icecatCatFeatureId": "7561",
+				"icecatClass": "0",
+				"icecatFeatureId": "861",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "textarea",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "1970-01-01T23:00:00.000Z",
+				"sortOrder": "100002"
+			},
+			{
+				"name": {
+					"en": "Compatible operating systems",
+					"fr": "Systèmes d'exploitation compatibles",
+					"es": "Sistemas operativos compatibles"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "122",
+				"icecatCatFeatureId": "13819",
+				"icecatClass": "0",
+				"icecatFeatureId": "2507",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "textarea",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "1970-01-01T23:00:00.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Media types supported",
+					"fr": "Types de supports acceptés",
+					"es": "Formatos compatibles"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "122",
+				"icecatCatFeatureId": "14331",
+				"icecatClass": "0",
+				"icecatFeatureId": "477",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "text",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "1970-01-01T23:00:00.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Software version",
+					"fr": "Version de logiciel",
+					"es": "Versión de Software"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "122",
+				"icecatCatFeatureId": "16640",
+				"icecatClass": "0",
+				"icecatFeatureId": "2307",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "text",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "1970-01-01T23:00:00.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Technical features",
+					"fr": "Caractéristiques",
+					"es": "Características técnicas"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "122",
+				"icecatCatFeatureId": "16641",
+				"icecatClass": "1",
+				"icecatFeatureId": "2143",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "textarea",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "1970-01-01T23:00:00.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "Software type",
+					"fr": "Type de logiciel",
+					"es": "Tipo de software"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "122",
+				"icecatCatFeatureId": "17303",
+				"icecatClass": "0",
+				"icecatFeatureId": "2971",
+				"limitDirection": "3",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "dropdown",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "1970-01-01T23:00:00.000Z",
+				"sortOrder": "100022"
+			},
+			{
+				"name": {
+					"en": "UNSPSC-code",
+					"fr": "Code UNSPSC",
+					"es": "Código UNSPSC"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "122",
+				"icecatCatFeatureId": "33036",
+				"icecatClass": "1",
+				"icecatFeatureId": "2505",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "alphanumeric",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2008-11-05T12:49:42.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "Dimensions (WxDxH)",
+					"fr": "Dimensions (LxPxH)",
+					"es": "Dimensiones (Ancho x Profundidad x Altura)"
+				},
+				"measureSign": {
+					"en": "mm",
+					"fr": "mm",
+					"es": "mm"
+				},
+				"icecatCatFeatureGroupId": "122",
+				"icecatCatFeatureId": "34976",
+				"icecatClass": "0",
+				"icecatFeatureId": "49",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "3d",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2009-07-05T07:37:36.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "RAID controller type",
+					"fr": "Type de contrôleur RAID",
+					"es": "RAID, tipo de controlador"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "122",
+				"icecatCatFeatureId": "34977",
+				"icecatClass": "1",
+				"icecatFeatureId": "1473",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "text",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2009-07-05T07:37:36.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "Size (imperial)",
+					"fr": "Taille (impériale)",
+					"es": "Tamaño (imperial)"
+				},
+				"measureSign": {
+					"en": "\"",
+					"fr": "\"",
+					"es": "\""
+				},
+				"icecatCatFeatureGroupId": "122",
+				"icecatCatFeatureId": "34978",
+				"icecatClass": "0",
+				"icecatFeatureId": "1147",
+				"limitDirection": "3",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2009-07-05T07:37:36.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Weight",
+					"fr": "Poids",
+					"es": "Peso"
+				},
+				"measureSign": {
+					"en": "g",
+					"fr": "g",
+					"es": "g"
+				},
+				"icecatCatFeatureGroupId": "122",
+				"icecatCatFeatureId": "34979",
+				"icecatClass": "0",
+				"icecatFeatureId": "94",
+				"limitDirection": "1",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2009-07-05T07:37:36.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Weight (imperial)",
+					"fr": "Poids (impérial)",
+					"es": "Peso (imperial)"
+				},
+				"measureSign": {
+					"en": "lbs",
+					"fr": "kg",
+					"es": "libras"
+				},
+				"icecatCatFeatureGroupId": "122",
+				"icecatCatFeatureId": "34980",
+				"icecatClass": "1",
+				"icecatFeatureId": "5736",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2009-07-05T07:37:36.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "Package dimensions (WxDxH)",
+					"fr": "Dimensions du colis (LxPxH)",
+					"es": "Dimensiones del empaque (ancho x largo x alto)"
+				},
+				"measureSign": {
+					"en": "mm",
+					"fr": "mm",
+					"es": "mm"
+				},
+				"icecatCatFeatureGroupId": "122",
+				"icecatCatFeatureId": "39369",
+				"icecatClass": "0",
+				"icecatFeatureId": "582",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "3d",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2010-01-30T13:28:25.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Package weight",
+					"fr": "Poids du paquet",
+					"es": "Peso del paquete"
+				},
+				"measureSign": {
+					"en": "g",
+					"fr": "g",
+					"es": "g"
+				},
+				"icecatCatFeatureGroupId": "122",
+				"icecatCatFeatureId": "39370",
+				"icecatClass": "0",
+				"icecatFeatureId": "762",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2010-01-30T13:28:25.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Recommended processor",
+					"fr": "Processeur conseillé",
+					"es": "Procesador recomendado"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "903",
+				"icecatCatFeatureId": "46431",
+				"icecatClass": "0",
+				"icecatFeatureId": "5846",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "text",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2011-02-28T16:10:47.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Recommended RAM",
+					"fr": "Mémoire RAM recommandée",
+					"es": "RAM recomendada"
+				},
+				"measureSign": {
+					"en": "MB",
+					"fr": "Mo",
+					"es": "MB"
+				},
+				"icecatCatFeatureGroupId": "903",
+				"icecatCatFeatureId": "46433",
+				"icecatClass": "0",
+				"icecatFeatureId": "7693",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2011-02-28T16:12:29.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Recommended storage drive space",
+					"fr": "Espace disque dur recommandé",
+					"es": "Espacio de disco de almacenamiento recomendado"
+				},
+				"measureSign": {
+					"en": "GB",
+					"fr": "Go",
+					"es": "GB"
+				},
+				"icecatCatFeatureGroupId": "903",
+				"icecatCatFeatureId": "46436",
+				"icecatClass": "0",
+				"icecatFeatureId": "7694",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2011-02-28T16:13:09.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "License term in years",
+					"fr": "Durée de licence (en années)",
+					"es": "Periodo delicencia en años"
+				},
+				"measureSign": {
+					"en": "year(s)",
+					"fr": "année(s)",
+					"es": "Año(s)"
+				},
+				"icecatCatFeatureGroupId": "902",
+				"icecatCatFeatureId": "50562",
+				"icecatClass": "0",
+				"icecatFeatureId": "8172",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2011-06-30T09:57:49.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "License level",
+					"fr": "Niveau Licence",
+					"es": "Nivel de licencia"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "902",
+				"icecatCatFeatureId": "246157",
+				"icecatClass": "0",
+				"icecatFeatureId": "10267",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "dropdown",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2018-03-02T11:43:59.000Z",
+				"sortOrder": "100001"
+			},
+			{
+				"name": {
+					"en": "License level purchase required",
+					"fr": "Achat de niveau de licence nécessaire",
+					"es": "Se requiere compra del nivel de licencia"
+				},
+				"measureSign": {
+					"en": "license(s)",
+					"fr": "licence(s)",
+					"es": "licencia(s)"
+				},
+				"icecatCatFeatureGroupId": "902",
+				"icecatCatFeatureId": "246158",
+				"icecatClass": "0",
+				"icecatFeatureId": "35299",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "alphanumeric",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2018-03-02T11:43:59.000Z",
+				"sortOrder": "100001"
+			},
+			{
+				"name": {
+					"en": "CNET category",
+					"fr": null,
+					"es": null
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "35971",
+				"icecatCatFeatureId": "341190",
+				"icecatClass": "1",
+				"icecatFeatureId": "41489",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "text",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-06-19T08:45:57.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "EU Export Control Classification Number (ECCN)",
+					"fr": "Numéro de classification de contrôle à l’exportation UE (ECCN)",
+					"es": null
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "35971",
+				"icecatCatFeatureId": "354566",
+				"icecatClass": "1",
+				"icecatFeatureId": "41507",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "alphanumeric",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-06-19T09:12:04.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "US Export Control Classification Number (ECCN)",
+					"fr": "Numéro de classification de contrôle à l’exportation US (ECCN)",
+					"es": "Número de clasificación de control de exportaciones de los Estados Unidos (ECCN)"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "35971",
+				"icecatCatFeatureId": "361312",
+				"icecatClass": "1",
+				"icecatFeatureId": "41508",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "alphanumeric",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-06-19T09:22:33.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "UK Trade Tariff code",
+					"fr": "Code du commerce de tarif du Royaume-Uni",
+					"es": "Código del arancel comercial del Reino Unido"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "35971",
+				"icecatCatFeatureId": "368067",
+				"icecatClass": "1",
+				"icecatFeatureId": "41509",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "alphanumeric",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-06-19T09:34:47.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "Country of origin",
+					"fr": "Pays d'origine",
+					"es": "País de origen"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "35971",
+				"icecatCatFeatureId": "374401",
+				"icecatClass": "0",
+				"icecatFeatureId": "3294",
+				"limitDirection": "3",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "dropdown",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2020-06-19T09:46:44.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Serialised",
+					"fr": "Sérialisé",
+					"es": null
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "35971",
+				"icecatCatFeatureId": "379542",
+				"icecatClass": "1",
+				"icecatFeatureId": "41510",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "y_n",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-06-19T09:56:55.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "Serial number mask",
+					"fr": "Masque de numéro de série",
+					"es": "Número de serie de mascarilla"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "35971",
+				"icecatCatFeatureId": "386288",
+				"icecatClass": "1",
+				"icecatFeatureId": "41511",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "text",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-06-19T10:08:11.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "Serial number location",
+					"fr": null,
+					"es": null
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "35971",
+				"icecatCatFeatureId": "393043",
+				"icecatClass": "1",
+				"icecatFeatureId": "41512",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "text",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-06-19T10:19:23.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "Waste Electrical and Electronic Equipment (WEEE) compliance",
+					"fr": "Conforme à la norme (WEEE, Waste Electrical and Electronic Equipment)",
+					"es": "Cumplimiento de la normativa sobre residuos de aparatos eléctricos y electrónicos (RAEE)"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "41610",
+				"icecatCatFeatureId": "399793",
+				"icecatClass": "1",
+				"icecatFeatureId": "41525",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "y_n",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-06-19T10:33:21.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "Package depth",
+					"fr": "Profondeur du colis",
+					"es": "Largo del paquete"
+				},
+				"measureSign": {
+					"en": "mm",
+					"fr": "mm",
+					"es": "mm"
+				},
+				"icecatCatFeatureGroupId": "48298",
+				"icecatCatFeatureId": "408286",
+				"icecatClass": "0",
+				"icecatFeatureId": "3806",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2020-06-19T11:00:47.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Package width",
+					"fr": "Largeur du colis",
+					"es": "Ancho del paquete"
+				},
+				"measureSign": {
+					"en": "mm",
+					"fr": "mm",
+					"es": "mm"
+				},
+				"icecatCatFeatureGroupId": "48298",
+				"icecatCatFeatureId": "411003",
+				"icecatClass": "0",
+				"icecatFeatureId": "3808",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2020-06-19T11:07:35.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Package height",
+					"fr": "Hauteur du colis",
+					"es": "Alto del paquete"
+				},
+				"measureSign": {
+					"en": "mm",
+					"fr": "mm",
+					"es": "mm"
+				},
+				"icecatCatFeatureGroupId": "48298",
+				"icecatCatFeatureId": "413708",
+				"icecatClass": "0",
+				"icecatFeatureId": "3807",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2020-06-19T11:14:39.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Quantity per shipping (inner) case",
+					"fr": "Quantité par carton d'expédition",
+					"es": "Cantidad por caja de envío"
+				},
+				"measureSign": {
+					"en": "pc(s)",
+					"fr": "pièce(s)",
+					"es": "pieza(s)"
+				},
+				"icecatCatFeatureGroupId": "35971",
+				"icecatCatFeatureId": "417154",
+				"icecatClass": "0",
+				"icecatFeatureId": "22664",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-06-19T11:22:09.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Shipping (inner) case length",
+					"fr": "Longueur du carton d'expédition",
+					"es": "Longitud del contenedor de envío"
+				},
+				"measureSign": {
+					"en": "mm",
+					"fr": "mm",
+					"es": "mm"
+				},
+				"icecatCatFeatureGroupId": "35971",
+				"icecatCatFeatureId": "423091",
+				"icecatClass": "0",
+				"icecatFeatureId": "22661",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-06-19T11:32:05.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Shipping (inner) case width",
+					"fr": "Largeur du carton d'expédition",
+					"es": "Ancho de la caja de envío"
+				},
+				"measureSign": {
+					"en": "mm",
+					"fr": "mm",
+					"es": "mm"
+				},
+				"icecatCatFeatureGroupId": "35971",
+				"icecatCatFeatureId": "429210",
+				"icecatClass": "0",
+				"icecatFeatureId": "22660",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-06-19T11:42:41.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Shipping (inner) case height",
+					"fr": "Hauteur du carton d'expédition",
+					"es": "Altura de la caja de envío"
+				},
+				"measureSign": {
+					"en": "mm",
+					"fr": "mm",
+					"es": "mm"
+				},
+				"icecatCatFeatureGroupId": "35971",
+				"icecatCatFeatureId": "435329",
+				"icecatClass": "0",
+				"icecatFeatureId": "22662",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-06-19T11:52:47.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Quantity per master (outer) case",
+					"fr": "Quantité par carton principal",
+					"es": "Cantidad por caja principal"
+				},
+				"measureSign": {
+					"en": "pc(s)",
+					"fr": "pièce(s)",
+					"es": "pieza(s)"
+				},
+				"icecatCatFeatureGroupId": "35971",
+				"icecatCatFeatureId": "441257",
+				"icecatClass": "0",
+				"icecatFeatureId": "22659",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-06-19T12:02:59.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Master (outer) case weight",
+					"fr": "Poids du carton principal",
+					"es": "Peso de la caja principal"
+				},
+				"measureSign": {
+					"en": "g",
+					"fr": "g",
+					"es": "g"
+				},
+				"icecatCatFeatureGroupId": "35971",
+				"icecatCatFeatureId": "446916",
+				"icecatClass": "0",
+				"icecatFeatureId": "19016",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2020-06-19T12:12:25.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Master (outer) case length",
+					"fr": "Longueur du carton principal",
+					"es": "Longitud de la caja principal"
+				},
+				"measureSign": {
+					"en": "mm",
+					"fr": "mm",
+					"es": "mm"
+				},
+				"icecatCatFeatureGroupId": "35971",
+				"icecatCatFeatureId": "452658",
+				"icecatClass": "0",
+				"icecatFeatureId": "22658",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-06-19T12:22:04.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Master (outer) case width",
+					"fr": "Largeur du carton principal",
+					"es": "Largo de la caja principal"
+				},
+				"measureSign": {
+					"en": "mm",
+					"fr": "mm",
+					"es": "mm"
+				},
+				"icecatCatFeatureGroupId": "35971",
+				"icecatCatFeatureId": "458355",
+				"icecatClass": "0",
+				"icecatFeatureId": "4457",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2020-06-19T12:31:39.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Master (outer) case height",
+					"fr": "Hauteur du carton principal",
+					"es": "Alto de la caja principal"
+				},
+				"measureSign": {
+					"en": "mm",
+					"fr": "mm",
+					"es": "mm"
+				},
+				"icecatCatFeatureGroupId": "35971",
+				"icecatCatFeatureId": "464051",
+				"icecatClass": "0",
+				"icecatFeatureId": "4456",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2020-06-19T12:41:41.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Quantity per pallet layer",
+					"fr": "Quantité par couche",
+					"es": "Cantidad por capa de palet"
+				},
+				"measureSign": {
+					"en": "pc(s)",
+					"fr": "pièce(s)",
+					"es": "pieza(s)"
+				},
+				"icecatCatFeatureGroupId": "35971",
+				"icecatCatFeatureId": "469976",
+				"icecatClass": "0",
+				"icecatFeatureId": "23729",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-06-19T12:51:52.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Quantity per pallet",
+					"fr": "Quantité par palette",
+					"es": "Cantidad por tarima"
+				},
+				"measureSign": {
+					"en": "pc(s)",
+					"fr": "pièce(s)",
+					"es": "pieza(s)"
+				},
+				"icecatCatFeatureGroupId": "35971",
+				"icecatCatFeatureId": "476227",
+				"icecatClass": "0",
+				"icecatFeatureId": "732",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2020-06-19T13:02:20.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Pallet length",
+					"fr": "Longueur de palette",
+					"es": "Longitud de la tarima"
+				},
+				"measureSign": {
+					"en": "mm",
+					"fr": "mm",
+					"es": "mm"
+				},
+				"icecatCatFeatureGroupId": "35971",
+				"icecatCatFeatureId": "482097",
+				"icecatClass": "0",
+				"icecatFeatureId": "22042",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-06-19T13:12:40.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Pallet width",
+					"fr": "Largeur de palette",
+					"es": "Ancho de la tarima"
+				},
+				"measureSign": {
+					"en": "mm",
+					"fr": "mm",
+					"es": "mm"
+				},
+				"icecatCatFeatureGroupId": "35971",
+				"icecatCatFeatureId": "488266",
+				"icecatClass": "0",
+				"icecatFeatureId": "22041",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-06-19T13:23:15.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Pallet height",
+					"fr": "Hauteur de palette",
+					"es": "Peso de la tarima"
+				},
+				"measureSign": {
+					"en": "mm",
+					"fr": "mm",
+					"es": "mm"
+				},
+				"icecatCatFeatureGroupId": "35971",
+				"icecatCatFeatureId": "494454",
+				"icecatClass": "0",
+				"icecatFeatureId": "22043",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-06-19T13:33:17.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Dangerous goods class",
+					"fr": null,
+					"es": null
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "35971",
+				"icecatCatFeatureId": "500832",
+				"icecatClass": "1",
+				"icecatFeatureId": "41527",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-06-19T13:43:32.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "Proper shipping name",
+					"fr": "Nom d’expédition correct",
+					"es": null
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "35971",
+				"icecatCatFeatureId": "507577",
+				"icecatClass": "1",
+				"icecatFeatureId": "41528",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "text",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-06-19T13:55:07.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "UN number",
+					"fr": "Numéro UN",
+					"es": "Número de la ONU"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "41610",
+				"icecatCatFeatureId": "514322",
+				"icecatClass": "1",
+				"icecatFeatureId": "41529",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "alphanumeric",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-06-19T14:06:18.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "Batteries included",
+					"fr": "Piles fournies",
+					"es": "Pilas incluidas"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "49201",
+				"icecatCatFeatureId": "520977",
+				"icecatClass": "0",
+				"icecatFeatureId": "4949",
+				"limitDirection": "3",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "y_n",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2020-06-19T14:18:31.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Battery weight",
+					"fr": "Poids de la batterie",
+					"es": "Peso de la batería"
+				},
+				"measureSign": {
+					"en": "g",
+					"fr": "g",
+					"es": "g"
+				},
+				"icecatCatFeatureGroupId": "53665",
+				"icecatCatFeatureId": "527393",
+				"icecatClass": "0",
+				"icecatFeatureId": "4857",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2020-06-19T14:36:06.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Battery cell capacity",
+					"fr": "Capacité des éléments de la batterie",
+					"es": null
+				},
+				"measureSign": {
+					"en": "Wh",
+					"fr": "Wh",
+					"es": "Wh"
+				},
+				"icecatCatFeatureGroupId": "53665",
+				"icecatCatFeatureId": "534098",
+				"icecatClass": "1",
+				"icecatFeatureId": "41531",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-06-19T14:53:25.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "Battery capacity (Watt-hours)",
+					"fr": "Capacité de la batterie",
+					"es": "Capacidad de batería (vatio-hora)"
+				},
+				"measureSign": {
+					"en": "Wh",
+					"fr": "Wh",
+					"es": "Wh"
+				},
+				"icecatCatFeatureGroupId": "53665",
+				"icecatCatFeatureId": "540792",
+				"icecatClass": "0",
+				"icecatFeatureId": "8519",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2020-06-19T15:04:34.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Product or Article Information Sheet available?",
+					"fr": "Fiche produit ou d’information sur l’article disponible ?",
+					"es": "¿Está disponible la hoja de información del producto o del artículo?"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "60161",
+				"icecatCatFeatureId": "547509",
+				"icecatClass": "1",
+				"icecatFeatureId": "41533",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "y_n",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-06-19T15:18:04.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "Material Safety Data Sheet (MSDS) name",
+					"fr": null,
+					"es": null
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "60161",
+				"icecatCatFeatureId": "580715",
+				"icecatClass": "1",
+				"icecatFeatureId": "41535",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "text",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-06-19T16:21:26.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "Sustainability compliance",
+					"fr": "Conformité à la durabilité",
+					"es": "Cumplimiento de la sostenibilidad"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "122",
+				"icecatCatFeatureId": "598565",
+				"icecatClass": "0",
+				"icecatFeatureId": "42512",
+				"limitDirection": "3",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "y_n",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-11-12T08:48:01.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Sustainability certificates",
+					"fr": "Certificats de durabilité",
+					"es": "Certificados de sustentabilidad"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "122",
+				"icecatCatFeatureId": "605411",
+				"icecatClass": "0",
+				"icecatFeatureId": "42513",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "multi_dropdown",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-11-12T08:49:47.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Sustainability organizations",
+					"fr": "Organisations durables",
+					"es": "Organizaciones de sustentabilidad"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "122",
+				"icecatCatFeatureId": "612260",
+				"icecatClass": "0",
+				"icecatFeatureId": "42514",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "multi_dropdown",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-11-12T08:51:19.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Sustainable technologies and materials",
+					"fr": "Technologies et matériaux durables",
+					"es": "Tecnologías y materiales sostenibles"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "122",
+				"icecatCatFeatureId": "619110",
+				"icecatClass": "0",
+				"icecatFeatureId": "42515",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "text",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-11-12T09:08:11.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Doesn't contain",
+					"fr": "Ne contient pas",
+					"es": "No contiene"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "122",
+				"icecatCatFeatureId": "625958",
+				"icecatClass": "0",
+				"icecatFeatureId": "42516",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "multi_dropdown",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-11-12T09:09:55.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Technical Name (special Provision 24)",
+					"fr": null,
+					"es": null
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "35971",
+				"icecatCatFeatureId": "632784",
+				"icecatClass": "1",
+				"icecatFeatureId": "42272",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "text",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-11-18T11:32:26.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "Rechargeable battery",
+					"fr": "Batterie rechargeable",
+					"es": "Batería recargable"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "53665",
+				"icecatCatFeatureId": "639501",
+				"icecatClass": "0",
+				"icecatFeatureId": "5204",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "y_n",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2020-11-18T11:32:37.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Number of battery cells",
+					"fr": "Nombre de cellules de batterie",
+					"es": "Número de celdas de batería"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "53665",
+				"icecatCatFeatureId": "646174",
+				"icecatClass": "0",
+				"icecatFeatureId": "1226",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "alphanumeric",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2020-11-18T11:32:47.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Battery level indicator",
+					"fr": "Indicateur du niveau de recharge",
+					"es": "Indicador de nivel de batería"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "53665",
+				"icecatCatFeatureId": "652864",
+				"icecatClass": "0",
+				"icecatFeatureId": "5496",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "y_n",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2020-11-18T11:32:55.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Quantity per pack",
+					"fr": "Quantité",
+					"es": "Cantidad por paquete"
+				},
+				"measureSign": {
+					"en": "pc(s)",
+					"fr": "pièce(s)",
+					"es": "pieza(s)"
+				},
+				"icecatCatFeatureGroupId": "35971",
+				"icecatCatFeatureId": "659081",
+				"icecatClass": "0",
+				"icecatFeatureId": "20228",
+				"limitDirection": "2",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "numerical",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-11-18T11:33:03.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Substance",
+					"fr": "Substance",
+					"es": "Sustancia"
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "70444",
+				"icecatCatFeatureId": "664198",
+				"icecatClass": "0",
+				"icecatFeatureId": "5658",
+				"limitDirection": "3",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "text",
+				"useDropdown": "N",
+				"valueSorting": "0",
+				"updated": "2020-11-18T11:33:11.000Z",
+				"sortOrder": "100000"
+			},
+			{
+				"name": {
+					"en": "Emergency telephone number",
+					"fr": null,
+					"es": null
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "70444",
+				"icecatCatFeatureId": "670835",
+				"icecatClass": "1",
+				"icecatFeatureId": "42271",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "alphanumeric",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-11-18T11:33:22.000Z",
+				"sortOrder": "0"
+			},
+			{
+				"name": {
+					"en": "UN Chapter 38.3 test Summary Available",
+					"fr": null,
+					"es": null
+				},
+				"measureSign": {},
+				"icecatCatFeatureGroupId": "35971",
+				"icecatCatFeatureId": "677580",
+				"icecatClass": "1",
+				"icecatFeatureId": "42273",
+				"limitDirection": "0",
+				"mandatory": "0",
+				"searchable": "0",
+				"inputType": "text",
+				"useDropdown": "N",
+				"valueSorting": "1",
+				"updated": "2020-11-18T11:33:30.000Z",
+				"sortOrder": "0"
+			}
+		]
+	}
+]
